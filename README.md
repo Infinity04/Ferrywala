@@ -1,3 +1,18 @@
+The Application tracks the ferrywala near you and gives you permission to book them . 
+The snippets to the application are here . 
+The application also uses clerk as a authentication tool for login . 
+
+![image](https://github.com/Infinity04/Ferrywala/assets/91657693/0b114f77-0f4d-416c-8d5d-71c6cdd32d7e)
+![image](https://github.com/Infinity04/Ferrywala/assets/91657693/245ab13b-c9af-4f39-b7db-31f19b503b6c)
+Use of Leaflet to get the location of the ferrywala , it even shows to number when you minimise the map 
+![image](https://github.com/Infinity04/Ferrywala/assets/91657693/89bce4de-d61c-4464-9eb3-57f1c5dc26e1)
+![image](https://github.com/Infinity04/Ferrywala/assets/91657693/94eb4b6b-d2e0-4192-8270-73e33390844a)
+![image](https://github.com/Infinity04/Ferrywala/assets/91657693/8b0bb1cc-dc89-4b1f-b8a1-c4b309cb66fd)
+Clerk Authethication 
+![image](https://github.com/Infinity04/Ferrywala/assets/91657693/ef9ae815-739b-4d70-b799-13448f6105fc)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
